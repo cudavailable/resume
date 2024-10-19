@@ -9,3 +9,6 @@
 2. 进入项目目录执行`npm i`安装依赖
 3. 执行`npm dev`开始开发
 4. 修改完后执行`npm pub`发布到ghpages
+
+## 参考
+https://github.com/zgatrying/resume
